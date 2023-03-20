@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "643048458557",
+    "project_id": "ass2-cloud-wesam",
+    "storage_bucket": "ass2-cloud-wesam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643048458557:android:e9dd99a8e4d480e68f5d54",
+        "android_client_info": {
+          "package_name": "com.example.ass2_cloud_wesam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "643048458557-ciqv83mn934gsjfdb1i0nmbbnvb93g85.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMjcblVhGXO__moq_5xdaD56CTPfsSbNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "643048458557-ciqv83mn934gsjfdb1i0nmbbnvb93g85.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
